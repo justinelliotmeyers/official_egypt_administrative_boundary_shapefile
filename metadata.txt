@@ -1,0 +1,4 @@
+Source:
+USAID
+license:
+unknown - I filed a FOIA and they sent the data with no restrictions.  I am assuming public domain.
